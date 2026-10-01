@@ -1,0 +1,6 @@
+{
+  "name": "BunkSafe",
+  "description": "Mobile-friendly College Attendance Tracker to help students maintain 75% attendance with timetable, what-if calculator, and semester management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
